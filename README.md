@@ -1,6 +1,5 @@
 # Mini Unix Shell
-
-![CI](https://github.com/YOUR_GITHUB_USERNAME/Unix-shell/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/rdbubster/Unix-shell/actions/workflows/ci.yml/badge.svg)](https://github.com/rdbubster/Unix-shell/actions/workflows/ci.yml)
 
 A small Unix shell in C++17 built directly on POSIX system calls: process
 creation, file-descriptor redirection, and inter-process pipes, with an
